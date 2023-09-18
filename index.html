@@ -1,35 +1,121 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Portfolio</title>
-    <link rel="stylesheet" href="index.css"> 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"/>
-</head>
-<body>
+    <link rel="stylesheet" href="index.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+    />
+  </head>
+  <body>
     <header>
-        <nav>
-          <a href="" class="logo"> Kishore</a>
-          <ul class="nav_list">
-            <li><a href="#home">Home</a></li>
-            <li><a href="#browsebydates">About</a></li>
-            <li><a href="#livesessions">Contact</a></li>
-            <!-- <li><a href="#about">About CyberDude</a></li> -->
-          </ul>
-          <div class="menu">
-            <i class="fa-solid fa-bars"></i>
-          </div>
-        </nav>
-      </header>
+      <nav>
+        <a href="" class="logo"> Kishore</a>
+        <ul class="nav_list">
+          <li><a href="#home">Home</a></li>
+          <li><a href="index.html#about">About</a></li>
+          <li><a href="index.html#contact">Contact</a></li>
+        </ul>
+        <div class="menu">
+          <i class="fa-solid fa-bars"></i>
+        </div>
+      </nav>
+    </header>
+    <!-- hero section -->
+    <main>
+      <div class="text-container">
+        <h1>
+          I'm Kishorekumar
+        </h1>
+        <h3> A Junior MERN Stack Developer</h3>
+        <p class="para">
+          As developers, we are constructing new things every day. Each line
+          of code is another building block. .We might be adding new features
+          or solving bugs every day.
+        </p>
+     <div class="icons">
+      <a href="https://www.linkedin.com/in/kishorekumar-kp/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+      <a href="https://github.com/kishorekumar-kp" target="_blank"></a><i class="fa-brands fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/kishorekumar-kp/" target="_blank"></a><i class="fa-brands fa-facebook"></i></a>
+     </div>
+        <button class="btn1">Hire Me! ❤️</button>
+        <button class="btn2" title="view cv">Download my CV ➡️</button>
+      </div>
+      <div class="img-container">
+        <img src="assets/mine_1.png" alt="profile" width="280" height="280"/>
+      </div>
+    </div>
 
- 
-</body>
-<script>
-  const menu = document.querySelector(".menu");
-  const menulist = document.querySelector("nav ul");
-  menu.addEventListener("click", () => {
-    menulist.classList.toggle("open");
-  });
-</script>
+
+
+    </main>
+    <!-- about section -->
+    <section class="About_section" id="about">
+      <h3>About Me</h3>
+      <div class="about-div">
+      <div class="img_div">
+        <img src="assets/mine2.jpg" alt="mine " width="250" height="250" />
+      </div>
+      <div class="text_div">
+        <h2>MERN stack Developer</h2>
+        <p><span>Experience:</span>Fresher</p>
+        <p><span>What I Do:</span>Web Developer</p>
+        <p><span>Place:</span>Tittagudi</p>
+        <p><span>Email:</span>kpkishorekumar26@gmail.com</p>
+        <p><span>Contact:</span>7339629143</p>
+        <button>know more</button>
+      </div>
+    </div>
+    <h3>My Activities</h3>
+    <div class="about_work">
+      <div>
+        <i class="fa-solid fa-code"></i>
+        <h4>Web development</h4>
+        <p>create a web appication and ui/ux designing and realtime application work </p>
+        <Button>learn more</Button>
+      </div>
+      <div>
+        <i class="fa-solid fa-money-bill-wave"></i>
+        <h4>Stock-Market</h4>
+        <p>investment ,intraday trading , swing position, cryptocurrency ,forex</p>
+        <Button>learn more</Button>
+      </div>
+      <div>
+        <i class="fa-solid fa-chart-simple"></i>
+        <h4>Digital Marketting</h4>
+        <p>Google Analytics ,SEO Optimization ,Email marketing ,  Get Noticed with Social Media </p>
+        <Button>learn more</Button>
+      </div>
+
+
+    </div>
+    </section>
+    <!-- contact section -->
+    <section class="contact_section" id="contact">
+      <h3 class="contact">Contact Me</h3>
+      <div>
+        <input type="text" class="inputs" placeholder="Enter Your Name"/>
+        <input type="email" class="inputs" placeholder="Enter Your Email"/>
+        <textarea type="text" placeholder="Enter Text Here"></textarea>
+        <input type="submit" class="submit" placeholder="Submit"/>
+      </div>
+
+    </section>
+    <!-- footer -->
+    <footer>
+       <p>Copyright &copy; 2023 - <a href="https://github.com/kishorekumar-kp" target="_blank">Kishorekumar</a> - AllRights Reserved.</p>
+    </footer>
+
+
+  </body>
+  <script>
+    const menu = document.querySelector(".menu");
+    const menulist = document.querySelector("nav ul");
+    menu.addEventListener("click", () => {
+      menulist.classList.toggle("open");
+    });
+  </script>
 </html>
