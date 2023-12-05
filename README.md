@@ -1,36 +1,58 @@
-# Project Title 
-[Portfolio]
+# Project Title👋
+
+Portfolio design by using HTML and CSS
+
 ## Table of Contents
-- [Portfolio](#project-title)
+- [Project Title](#project-title)
 - [Description](#description)
 - [Demo](#demo)
 - [Internship](#internship)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
+
+
+
 ## Description
-[Provide a more detailed description of your project. Explain what it does, its purpose, and any unique features.]
-## Demo
-[Include links to a live demo, screenshots, or GIFs that showcase your project in action.]
-## Internship
+
+poprtfolio interface (UI) features a clean, simple design. for my basic information  offering a user-friendly experience.
+
+## Demo🚀
+
+<a target="_blank" href="https://kishorekumar-kp.github.io/Portfolio/">Demo Link</a>
+
+## Internship🥳
+
 This internship is provided by [CyberDude Networks Pvt. Ltd.](https://youtube.com/cyberdudenetworks) as part of the 6-Month Free Internship program, a skill development initiative organized to enhance participants' skills. Mentoring was provided by [Mr. Anbuselvan Rocky](https://instagram.com/anbuselvanrocky). For more information, [you can contact CyberDude Networks here](https://cyberdudenetworks.com).
-## Technologies Used 
-[List the technologies, programming languages, and libraries/frameworks used in your project.]
+
+## Technologies Used
+1. HTML5
+2. CSS3
+
 ## Features
-- [List the key features and functionality of your project.]
-## Installation
-[Provide step-by-step instructions on how to install and set up your project locally. Include any prerequisites and dependencies.]
-## Usage
-[Explain how to use your project, including any configuration options, examples, or code snippets.]
+
+- To help you understand my skills and information better, I kindly request you to take a look at my Profile.
+
+
+
 ## Contributing
-[Explain how others can contribute to your project, such as reporting issues, submitting pull requests, and any coding guidelines.]
+
+If you want to contribute to the project, please follow the guidelines outlined in the installation. You can also contribute and edit the design to make more Perfect.
+
 ## License
-[Specify the license under which your project is distributed. For example, you can use an open-source license like MIT, GPL, or Apache 2.0. Include a link to the full license text.]
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 ## Acknowledgments
-[If your project uses third-party code, libraries, or resources, acknowledge and give credit to the authors or projects that have been helpful.]
+
+- **Cyberdude Network Pty Limited:** Thanks to [CyberDude Networks Pvt. Ltd.](https://youtube.com/cyberdudenetworks) opportunity and guidance.
+
+- **Mentor Name:** Special thanks to [Mr. Anbuselvan Rocky](https://instagram.com/anbuselvanrocky) for their valuable mentorship.
+
+
 ---
-[Optional: Include badges, social media links, or additional information about your project or yourself.]
+Reach me to LinkedIn **https://www.linkedin.com/in/kishorekumar-kp/**
+
